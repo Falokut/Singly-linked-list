@@ -1,0 +1,7 @@
+# Precompiled Headers
+*.gch
+*.pch
+*.ipch
+
+.vs
+x64
